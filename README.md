@@ -111,21 +111,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiHemanth2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHemanth2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com/?user=SaiHemanth2005&theme=tokyonight&hide_border=true&border_radius=10&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiHemanth2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
