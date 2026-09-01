@@ -23,35 +23,35 @@
 
 <table>
 <tr>
-<td align="center" width="96">
-<a href="https://github.com/SaiHemanth2005" target="_blank">
+<td align="center" width="100">
+<a href="https://github.com/SaiHemanth2005" target="_blank" rel="noopener noreferrer">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+<br/><sub><b>GitHub</b></sub>
 </a>
-<br/><sub>GitHub</sub>
 </td>
-<td align="center" width="96">
-<a href="https://www.linkedin.com/in/sai-hemanth-koyyana-3b20b9387/" target="_blank">
+<td align="center" width="100">
+<a href="https://www.linkedin.com/in/sai-hemanth-koyyana-3b20b9387/" target="_blank" rel="noopener noreferrer">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+<br/><sub><b>LinkedIn</b></sub>
 </a>
-<br/><sub>LinkedIn</sub>
 </td>
-<td align="center" width="96">
+<td align="center" width="100">
 <a href="mailto:hemu50524@gmail.com">
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/gmail/A78BFA" alt="Email"/>
+<br/><sub><b>Email</b></sub>
 </a>
-<br/><sub>Email</sub>
 </td>
-<td align="center" width="96">
-<a href="https://saihemanth2005.github.io/Portfolio/" target="_blank">
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio"/>
+<td align="center" width="100">
+<a href="https://saihemanth2005.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+<img width="55" height="55" src="https://cdn.simpleicons.org/googlechrome/A78BFA" alt="Portfolio"/>
+<br/><sub><b>Portfolio</b></sub>
 </a>
-<br/><sub>Portfolio</sub>
 </td>
-<td align="center" width="96">
-<a href="https://saihemanth2005.github.io/Resume.pdf" target="_blank">
+<td align="center" width="100">
+<a href="https://saihemanth2005.github.io/Resume.pdf" target="_blank" rel="noopener noreferrer">
 <img width="55" height="55" src="https://cdn.simpleicons.org/adobeacrobatreader/A78BFA" alt="Resume"/>
+<br/><sub><b>Resume</b></sub>
 </a>
-<br/><sub>Resume</sub>
 </td>
 </tr>
 </table>
@@ -82,57 +82,49 @@
 
 ## Tech Stack
 
+<div align="center">
+
 **GenAI / LLMs**
 
-<img width="55" height="55" src="https://cdn.simpleicons.org/openai/A78BFA" title="Generative AI"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/googlegemini/A78BFA" title="Large Language Models"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/langchain/A78BFA" title="LangChain"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/dataiku/A78BFA" title="RAG"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/openaigym/A78BFA" title="Prompt Engineering"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/apacheairflow/A78BFA" title="LLM Pipelines"/>
+<img width="50" height="50" src="https://cdn.simpleicons.org/openai/A78BFA" title="Generative AI" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/googlegemini/A78BFA" title="Large Language Models" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/langchain/A78BFA" title="LangChain" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/dataiku/A78BFA" title="RAG" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/openaigym/A78BFA" title="Prompt Engineering" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/apacheairflow/A78BFA" title="LLM Pipelines" style="margin:6px"/>
+
+<br/><br/>
 
 **Languages**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" style="margin:6px"/>
+
+<br/><br/>
 
 **AI & ML**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Machine Learning"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/googlemediapipe/A78BFA" title="MediaPipe"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/opencv/A78BFA" title="Computer Vision"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/imagej/A78BFA" title="Image Processing"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Machine Learning" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/googlemediapipe/A78BFA" title="MediaPipe" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/opencv/A78BFA" title="Computer Vision" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/imagej/A78BFA" title="Image Processing" style="margin:6px"/>
+
+<br/><br/>
 
 **Data Science**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/python/A78BFA" title="BeautifulSoup"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/python/A78BFA" title="Requests"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/python/A78BFA" title="BeautifulSoup" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/python/A78BFA" title="Requests" style="margin:6px"/>
+
+<br/><br/>
 
 **Web & App Development**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" style="margin:6px"/>
+
+<br/><br/>
 
 **Databases**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
-<img width="55" height="55" src="https://cdn.simpleicons.org/databricks/A78BFA" title="DBMS"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" style="margin:6px"/> <img width="50" height="50" src="https://cdn.simpleicons.org/databricks/A78BFA" title="DBMS" style="margin:6px"/>
+
+<br/><br/>
 
 **Dev Tools**
 
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" style="margin:6px"/> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="margin:6px"/>
+
+</div>
 
 ---
 
@@ -169,7 +161,7 @@
 
 </div>
 
-> Generated automatically by a GitHub Actions workflow on the `SaiHemanth2005/SaiHemanth2005` profile repository — see setup steps below.
+> Generated automatically by a GitHub Actions workflow on the `SaiHemanth2005/SaiHemanth2005` profile repository — see setup steps provided separately.
 
 ---
 
@@ -206,11 +198,20 @@ Building • Learning • Solving • Improving
 
 ## Engineering Experience
 
-**Software Development Intern — SkillCraft Technology**
+**Software Development Intern — SkillCraft Technology** · Jun 2026 – Jul 2026
 C++, Python, DSA, Recursion, Backtracking, File I/O, Web Scraping, Git, GitHub, Data Processing
 
-**Virtual Intern — Infosys**
+**Virtual Intern — Infosys Springboard** · Aug 2025 – Oct 2025
 Generative AI, LLMs, RAG, Prompt Engineering, LangChain, Agent Orchestration
+
+---
+
+## Achievements
+
+- Software Development Intern — SkillCraft Technology
+- Virtual Intern — Infosys Springboard
+- Google Student Ambassador
+- Participated in national hackathons — kAIzen GenAI Hackathon and Innovision NSUT
 
 ---
 
