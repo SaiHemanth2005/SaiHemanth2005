@@ -1,29 +1,228 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sai%20Hemanth%20Koyyana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Data%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C1E6B,100:6E56CF&height=220&section=header&text=Koyyana%20Sai%20Hemanth&fontSize=46&fontColor=E8E3FF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Data%20Science%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=17&descColor=A78BFA" />
 
-<a href="https://www.linkedin.com/in/sai-hemanth-koyyana-3b20b9387/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=45&background=00000000&lines=Building+intelligent+solutions+with+AI;Turning+ideas+into+real-world+software" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SaiHemanth2005&label=Profile%20Views&color=6E56CF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/SaiHemanth2005?label=Followers&style=flat-square&color=6E56CF&labelColor=0F2027" />
+
+</div>
+
+<br/>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://github.com/SaiHemanth2005" target="_blank">
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 </a>
+<br/><sub>GitHub</sub>
+</td>
+<td align="center" width="96">
+<a href="https://www.linkedin.com/in/sai-hemanth-koyyana-3b20b9387/" target="_blank">
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a>
+<br/><sub>LinkedIn</sub>
+</td>
+<td align="center" width="96">
 <a href="mailto:hemu50524@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
 </a>
-<a href="https://saihemanth2005.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" />
+<br/><sub>Email</sub>
+</td>
+<td align="center" width="96">
+<a href="https://saihemanth2005.github.io/Portfolio/" target="_blank">
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio"/>
 </a>
-<a href="https://saihemanth2005.github.io/Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white" />
+<br/><sub>Portfolio</sub>
+</td>
+<td align="center" width="96">
+<a href="https://saihemanth2005.github.io/Resume.pdf" target="_blank">
+<img width="55" height="55" src="https://cdn.simpleicons.org/adobeacrobatreader/A78BFA" alt="Resume"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+intelligent+solutions+with+AI;Turning+ideas+into+real-world+software&font=Fira+Code&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=22&pause=1200" />
+<br/><sub>Resume</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🚀 BUILDING
+## Developer Status
+
+<div align="center">
+
+```
+╭──────────────────────────────────────╮
+│          DEVELOPER STATUS             │
+├────────────────────────────────────────┤
+│ SYSTEM        : ONLINE                │
+│ PRIMARY LANG  : C++                   │
+│ FOCUS         : SOFTWARE ENGINEERING  │
+│ BUILDING      : AI + REAL-WORLD APPS  │
+│ VERSION CTRL  : GIT / GITHUB          │
+╰──────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## Tech Stack
+
+**GenAI / LLMs**
+
+<img width="55" height="55" src="https://cdn.simpleicons.org/openai/A78BFA" title="Generative AI"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/googlegemini/A78BFA" title="Large Language Models"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/langchain/A78BFA" title="LangChain"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/dataiku/A78BFA" title="RAG"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/openaigym/A78BFA" title="Prompt Engineering"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/apacheairflow/A78BFA" title="LLM Pipelines"/>
+
+**Languages**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+
+**AI & ML**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Machine Learning"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/googlemediapipe/A78BFA" title="MediaPipe"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/opencv/A78BFA" title="Computer Vision"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/imagej/A78BFA" title="Image Processing"/>
+
+**Data Science**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/python/A78BFA" title="BeautifulSoup"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/python/A78BFA" title="Requests"/>
+
+**Web & App Development**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+
+**Databases**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/databricks/A78BFA" title="DBMS"/>
+
+**Dev Tools**
+
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+<img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiHemanth2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiHemanth2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=SaiHemanth2005&theme=tokyonight&hide_border=true&border_radius=12&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0d1117" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiHemanth2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=E8E3FF" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SaiHemanth2005/SaiHemanth2005/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> Generated automatically by a GitHub Actions workflow on the `SaiHemanth2005/SaiHemanth2005` profile repository — see setup steps below.
+
+---
+
+## ⚡ Developer Console
+
+```bash
+$ whoami
+Koyyana Sai Hemanth
+
+$ stack --primary
+C++ | Python | SQL
+
+$ domain
+Software Engineering | AI/ML | Computer Vision
+
+$ tools
+Git | GitHub | VS Code
+
+$ status
+Building • Learning • Solving • Improving
+```
+
+---
+
+## Engineering Focus
+
+<div align="center">
+
+`Data Structures & Algorithms` `Software Development` `Computer Vision` `Real-Time Video Processing` `Generative AI` `Retrieval-Augmented Generation` `Web Development` `Data Processing`
+
+</div>
+
+---
+
+## Engineering Experience
+
+**Software Development Intern — SkillCraft Technology**
+C++, Python, DSA, Recursion, Backtracking, File I/O, Web Scraping, Git, GitHub, Data Processing
+
+**Virtual Intern — Infosys**
+Generative AI, LLMs, RAG, Prompt Engineering, LangChain, Agent Orchestration
+
+---
+
+<div align="center">
+
+*"Great things are built one step, one idea, and one solution at a time."*
+
+</div>
+
+---
+
+## Building
 
 ```
 ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
@@ -42,95 +241,8 @@
 
 ---
 
-## 💫 About Me
-
-- 🔭 Currently working on **C++ projects and software engineering applications**
-- 👨‍💻 Currently preparing for **SDE internships and software engineering roles**
-- 🌱 Currently learning **Data Structures & Algorithms, C++ and Object-Oriented Programming**
-- 🤝 Looking to collaborate on **C++ projects, open-source projects and innovative software solutions**
-- 💬 Ask me about **C++, DSA, OOP, Generative AI, and RAG pipelines**
-- ⚡ Fun fact: I enjoy turning real-world problems into software solutions
-
-> *"Great things are built one step, one idea, and one solution at a time."*
-
----
-
-## 🧠 Tech Stack
-
-**🤖 GenAI / LLMs**
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=OpenAI&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-5B21B6?style=for-the-badge)
-
-**💻 Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🧬 AI & ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge)
-![Image Processing](https://img.shields.io/badge/Image_Processing-663399?style=for-the-badge)
-
-**📊 Data Science**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2C3E50?style=for-the-badge&logo=python&logoColor=white)
-
-**🌐 Web & App Development**
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🗄️ Databases**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-2E3440?style=for-the-badge&logo=databricks&logoColor=white)
-
-**🛠️ Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [Sai Hemanth Koyyana](https://www.linkedin.com/in/sai-hemanth-koyyana-3b20b9387/) |
-| 🐙 GitHub | [SaiHemanth2005](https://github.com/SaiHemanth2005) |
-| 📧 Email | [hemu50524@gmail.com](mailto:hemu50524@gmail.com) |
-| 🌐 Portfolio | [saihemanth2005.github.io/Portfolio](https://saihemanth2005.github.io/Portfolio/) |
-| 📄 Resume | [View Resume](https://saihemanth2005.github.io/Resume.pdf) |
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=SaiHemanth2005&label=Profile+Views&color=6e56cf&style=for-the-badge)](https://visitcount.itsvg.in)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C1E6B,100:6E56CF&height=140&section=footer" />
 
 </div>
